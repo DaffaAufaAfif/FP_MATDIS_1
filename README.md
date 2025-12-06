@@ -14,9 +14,22 @@ Kesehatan dan kebugaran tubuh sangat bergantung pada keseimbangan energi, yaitu 
   
   aktivitas (string/int): Pilihan level aktivitas (1-5) yang akan dikonversi menjadi activity multiplier.
 
+  tdee_result (float): TDEE sesuai aktivitas yang dipilih, BMR x aktivitas 
+
 # Penjelasan Fungsi:
   hitung_bmr_dan_rumus(berat, tinggi, umur, gender):
     Fungsi ini mengimplementasikan rumus Mifflin-St Jeor. Rumus ini dianggap sebagai salah satu standar paling akurat saat ini untuk menghitung BMR.
-    Rumus Dasar: (10 x berat)+(6.25 x tinggi) - (5 x umur) + S. 
-      Di mana S: +5 untuk laki-laki dan -161 untuk perempuan.
-    return: hasil BMR, Rumus BMR (untuk kebutuhan visualisasi)
+    
+  Rumus Dasar: (10 x berat)+(6.25 x tinggi) - (5 x umur) + S. 
+      
+  Di mana S: +5 untuk laki-laki dan -161 untuk perempuan.
+  return: hasil BMR, Rumus BMR (untuk kebutuhan visualisasi)
+
+#Tambahan
+Terdapat tambahan yaitu: Target diet
+
+Defisit= TDEE - 500
+
+Tetap= TDEE
+
+Surplus= TDEE + 500
