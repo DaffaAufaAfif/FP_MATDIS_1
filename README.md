@@ -25,7 +25,7 @@ Kesehatan dan kebugaran tubuh sangat bergantung pada keseimbangan energi, yaitu 
   Di mana S: +5 untuk laki-laki dan -161 untuk perempuan.
   return: hasil BMR, Rumus BMR (untuk kebutuhan visualisasi)
 
-#Tambahan
+# Tambahan
 Terdapat tambahan yaitu: Target diet
 
 Defisit= TDEE - 500
