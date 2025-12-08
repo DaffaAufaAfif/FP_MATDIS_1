@@ -38,3 +38,12 @@ Surplus= TDEE + 500
 https://fpmatdis1-bmr-tdee.streamlit.app/
 
 https://its.id/m/Kalori
+
+
+### Hasil pengujian
+
+<img width="473" height="785" alt="image" src="https://github.com/user-attachments/assets/fd162671-c358-4d1a-94fe-4d57471cff5e" />
+<img width="1272" height="755" alt="image" src="https://github.com/user-attachments/assets/73eec613-54e4-4658-8759-4537406b6619" />
+<img width="1286" height="853" alt="image" src="https://github.com/user-attachments/assets/9ce799d4-39a0-4e6e-9efc-94d5528f1411" />
+
+
